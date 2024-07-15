@@ -1,0 +1,25 @@
+[
+  
+  {
+    "name": "Weed Detection",
+    "desc": "A web developer skilled in creating and maintaining responsive and user-friendly websites, ensuring optimal performance and compatibility across devices and browsers. Proficient in HTML, CSS, JavaScript, and various web development frameworks.",
+    "image": "weed",
+    "category": "weed",
+    "links": {
+      "view": "assets/images/projects/weed.png",
+      "code": "https://github.com/Hari1266/Weed-Detection"
+    }
+  },
+  {
+    "name": "Crop Disease Detection Using Deep Learning",
+    "desc": "A web developer skilled in creating and maintaining responsive and user-friendly websites, ensuring optimal performance and compatibility across devices and browsers. Proficient in HTML, CSS, JavaScript, and various web development frameworks.our model fared better than conventional designs such as AlexNet and VGGNet.",
+    "image": "crophub",
+    "category": "crophub",
+    "links": {
+      "view": "assets/images/projects/crophub.jpeg",
+      "code": "https://github.com/Hari1266/Crop-Disease-Prediction"
+    }
+  }
+  
+]
+
